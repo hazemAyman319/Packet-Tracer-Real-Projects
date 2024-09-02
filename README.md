@@ -27,3 +27,10 @@ Small-Company-Topology :
    
 ![Small-Company-Topolgy](https://github.com/user-attachments/assets/d75492c8-9a4c-4f63-9319-2719753c36fe)
 
+THE UPCOMING NETWORKS I HAVE USED DISTRIBUTION LAYER DESIGNS :
+- including ACLs and portsecurity
+- subnetting and supernetting are used
+- InterVlan Routing
+- OSPF , EIGRP and RIP routing
+- SSH and Telnet is enabled on all devices
+
