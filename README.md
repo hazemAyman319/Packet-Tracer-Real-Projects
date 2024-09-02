@@ -34,3 +34,8 @@ THE UPCOMING NETWORKS I HAVE USED DISTRIBUTION LAYER DESIGNS :
 - OSPF , EIGRP and RIP routing
 - SSH and Telnet is enabled on all devices
 
+![Bank-Network](https://github.com/user-attachments/assets/adba4ad3-7dcc-48b1-8224-1f5909b6e785)
+
+![University-Campus](https://github.com/user-attachments/assets/77318f7f-3689-4f58-a90a-9c34c5dccba2)
+
+![Screenshot 2024-09-03 011229](https://github.com/user-attachments/assets/73ddae91-b7f3-4587-a123-d0a9abb209f0)
